@@ -1,0 +1,17 @@
+main/Pipfile
+main/Pipfile.lock
+main/web/web/local_settings.py
+main/web/web/email_config.py
+main/web/web/secret_key.py
+*.log
+*.pot
+*.pyc
+__pycache__
+main/web/db.sqlite3
+main/web/media
+main/web/azhar-7c114-firebase-adminsdk-jcdue-22de461a00.json
+firebase_config.html
+main/web/core/static/firebase/config.js
+main/web/templates
+main/web/core/static
+
